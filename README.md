@@ -21,3 +21,4 @@ Run the following comand to start:
 ```npm run dev```  
 
 Finally, open the broswer to access the frontend  
+127:0.0.1:{port:8080} note the application might specify different port if port 8080 is been used by another server application 
